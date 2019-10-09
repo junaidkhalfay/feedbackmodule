@@ -1,0 +1,177 @@
+{
+  "data": {
+    "questions": [
+      {
+        "id": 1,
+        "question_type_id": 1,
+        "question_type_name": "Radio",
+        "question_name": "Do you feel that the syllabus is defined in a way to clarify your teaching goals and what you except your students to learn?",
+        "question_item": [
+          {
+            "answer_id": "11",
+            "name": "Poor"
+          },
+          {
+            "answer_id": "12",
+            "name": "Fair"
+          },
+          {
+            "answer_id": "13",
+            "name": "Good"
+          },
+          {
+            "answer_id": "14",
+            "name": "Excellent"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "question_type_id": 2,
+        "question_type_name": "Radio",
+        "question_name": "Is your syllabus sufficient to bridge the gap between industry standards / current global scenarios and academics?",
+        "question_item": [
+          {
+            "answer_id": "11",
+            "name": "Poor"
+          },
+          {
+            "answer_id": "12",
+            "name": "Fair"
+          },
+          {
+            "answer_id": "13",
+            "name": "Good"
+          },
+          {
+            "answer_id": "14",
+            "name": "Excellent"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "question_type_id": 1,
+        "question_type_name": "Radio",
+        "question_name": "Is the timely coverage of syllabus possible in the mentioned number of hours?",
+        "question_item": [
+          {
+            "answer_id": "11",
+            "name": "Poor"
+          },
+          {
+            "answer_id": "12",
+            "name": "Fair"
+          },
+          {
+            "answer_id": "13",
+            "name": "Good"
+          },
+          {
+            "answer_id": "14",
+            "name": "Excellent"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "question_type_id": 2,
+        "question_type_name": "Radio",
+        "question_name": "Sufficient reference material and books are available for the topics mentioned in the syllabus?",
+        "question_item": [
+          {
+            "answer_id": "11",
+            "name": "Poor"
+          },
+          {
+            "answer_id": "12",
+            "name": "Fair"
+          },
+          {
+            "answer_id": "13",
+            "name": "Good"
+          },
+          {
+            "answer_id": "14",
+            "name": "Excellent"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "question_type_id": 2,
+        "question_type_name": "Radio",
+        "question_name": "The evaluation methods mentioned in the syllabus are sufficient for providing proper assessment?",
+        "question_item": [
+          {
+            "answer_id": "11",
+            "name": "Poor"
+          },
+          {
+            "answer_id": "12",
+            "name": "Fair"
+          },
+          {
+            "answer_id": "13",
+            "name": "Good"
+          },
+          {
+            "answer_id": "14",
+            "name": "Excellent"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "question_type_id": 2,
+        "question_type_name": "Radio",
+        "question_name": "Is the syllabus helped in overall grooming of the student?",
+        "question_item": [
+          {
+            "answer_id": "11",
+            "name": "Poor"
+          },
+          {
+            "answer_id": "12",
+            "name": "Fair"
+          },
+          {
+            "answer_id": "13",
+            "name": "Good"
+          },
+          {
+            "answer_id": "14",
+            "name": "Excellent"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "question_type_id": 2,
+        "question_type_name": "Radio",
+        "question_name": "Overall Rating",
+        "question_item": [
+          {
+            "answer_id": "11",
+            "name": "Poor"
+          },
+          {
+            "answer_id": "12",
+            "name": "Fair"
+          },
+          {
+            "answer_id": "13",
+            "name": "Good"
+          },
+          {
+            "answer_id": "14",
+            "name": "Excellent"
+          }
+        ]
+      }
+    ]
+  },
+
+  "status": true,
+  "message": "The data was fetched successfully"
+}

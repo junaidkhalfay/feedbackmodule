@@ -1,0 +1,201 @@
+{
+  "data": {
+    "questions": [
+      {
+        "id": 1,
+        "question_type_id": 1,
+        "question_type_name": "Radio",
+        "question_name": "Learning value(in terms of skill,concept,knowledge,analytical abilities or broadening perspectives)",
+        "question_item": [
+          {
+            "answer_id": "11",
+            "name": "Poor"
+          },
+          {
+            "answer_id": "12",
+            "name": "Fair"
+          },
+          {
+            "answer_id": "13",
+            "name": "Good"
+          },
+          {
+            "answer_id": "14",
+            "name": "Excellent"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "question_type_id": 2,
+        "question_type_name": "Radio",
+        "question_name": "Application/Relevance to real life situations",
+        "question_item": [
+          {
+            "answer_id": "11",
+            "name": "Poor"
+          },
+          {
+            "answer_id": "12",
+            "name": "Fair"
+          },
+          {
+            "answer_id": "13",
+            "name": "Good"
+          },
+          {
+            "answer_id": "14",
+            "name": "Excellent"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "question_type_id": 1,
+        "question_type_name": "Radio",
+        "question_name": "Depth of the programme content",
+        "question_item": [
+          {
+            "answer_id": "11",
+            "name": "Poor"
+          },
+          {
+            "answer_id": "12",
+            "name": "Fair"
+          },
+          {
+            "answer_id": "13",
+            "name": "Good"
+          },
+          {
+            "answer_id": "14",
+            "name": "Excellent"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "question_type_id": 2,
+        "question_type_name": "Radio",
+        "question_name": "Syllabus is sufficient to make you analyze the application problems and its situation solution",
+        "question_item": [
+          {
+            "answer_id": "11",
+            "name": "Poor"
+          },
+          {
+            "answer_id": "12",
+            "name": "Fair"
+          },
+          {
+            "answer_id": "13",
+            "name": "Good"
+          },
+          {
+            "answer_id": "14",
+            "name": "Excellent"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "question_type_id": 2,
+        "question_type_name": "Radio",
+        "question_name": "Relevance for implementing in projects",
+        "question_item": [
+          {
+            "answer_id": "11",
+            "name": "Poor"
+          },
+          {
+            "answer_id": "12",
+            "name": "Fair"
+          },
+          {
+            "answer_id": "13",
+            "name": "Good"
+          },
+          {
+            "answer_id": "14",
+            "name": "Excellent"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "question_type_id": 2,
+        "question_type_name": "Radio",
+        "question_name": "Compatibility with industry standards",
+        "question_item": [
+          {
+            "answer_id": "11",
+            "name": "Poor"
+          },
+          {
+            "answer_id": "12",
+            "name": "Fair"
+          },
+          {
+            "answer_id": "13",
+            "name": "Good"
+          },
+          {
+            "answer_id": "14",
+            "name": "Excellent"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "question_type_id": 2,
+        "question_type_name": "Radio",
+        "question_name": "Is the syllabus helped in overall grooming of the students?",
+        "question_item": [
+          {
+            "answer_id": "11",
+            "name": "Poor"
+          },
+          {
+            "answer_id": "12",
+            "name": "Fair"
+          },
+          {
+            "answer_id": "13",
+            "name": "Good"
+          },
+          {
+            "answer_id": "14",
+            "name": "Excellent"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "question_type_id": 2,
+        "question_type_name": "Radio",
+        "question_name": "Overall Rating",
+        "question_item": [
+          {
+            "answer_id": "11",
+            "name": "Poor"
+          },
+          {
+            "answer_id": "12",
+            "name": "Fair"
+          },
+          {
+            "answer_id": "13",
+            "name": "Good"
+          },
+          {
+            "answer_id": "14",
+            "name": "Excellent"
+          }
+        ]
+      }
+    ]
+  },
+
+  "status": true,
+  "message": "The data was fetched successfully"
+}

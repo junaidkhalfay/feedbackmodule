@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FeedBack</string>
+    <string name="student_questionnaire">Student Curriculum</string>
+    <string name="teacher_questionnaire">Teacher Curriculum</string>
+    <string name="show_result">Show Result</string>
+    <string name="finish">Finish</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+</resources>
